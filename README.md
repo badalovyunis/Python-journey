@@ -1,4 +1,4 @@
-# Python Journey
+# 🐍 Python Journey
 
 This repository is a collection of my Python practice materials.  
 I already have a solid foundation in Python, but I’m going through it again — to **refresh my knowledge**, improve my **coding style**, and **help others** who might be learning as well.
@@ -23,12 +23,6 @@ My main goal is to keep my skills sharp while sharing something useful with the 
 - File Handling
 - Error Handling
 - Useful Mini Projects (Coming Soon)
-
----
-
-## Purpose
-
-> To review Python concepts, stay consistent with practice, and share practical examples that might help others on their journey.
 
 ---
 
